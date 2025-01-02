@@ -1,6 +1,6 @@
-package com.codedecode.order.repo;
+package com.restaurant.order.repo;
 
-import com.codedecode.order.entity.Order;
+import com.restaurant.order.entity.Order;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

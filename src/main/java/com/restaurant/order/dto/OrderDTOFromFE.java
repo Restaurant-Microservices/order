@@ -1,4 +1,4 @@
-package com.codedecode.order.dto;
+package com.restaurant.order.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

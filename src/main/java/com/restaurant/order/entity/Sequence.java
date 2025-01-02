@@ -1,4 +1,4 @@
-package com.codedecode.order.entity;
+package com.restaurant.order.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
